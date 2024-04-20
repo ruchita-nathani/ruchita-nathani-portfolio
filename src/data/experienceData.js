@@ -1,5 +1,12 @@
 export const experienceData = [
     {
+        id: 0,
+        company: 'Essence Solusoft',
+        jobtitle: 'Senior Software Developer',
+        startYear: '2022',
+        endYear: 'Present'
+    },
+    {
         id: 1,
         company: 'Sparsh Technologies',
         jobtitle: 'Software Engineer',
